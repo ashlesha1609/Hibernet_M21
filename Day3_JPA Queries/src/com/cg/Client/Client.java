@@ -3,11 +3,27 @@ package com.cg.Client;
 import com.cg.service.BookService;
 import com.cg.service.BookServiceImpl;
 
-public class Client {
+public class Client
+{
 
-	public static void main(String[] args) {
-		BookServiceImpl obj = new BookServiceImpl();
-		System.out.println("Total No. of Books");
+	public static void main(String[] args) 
+	{
+		
+
+	
+		
+		
+		
+		
+		
+		
+		
+	}
+		/*
+		 BookService obj = new BookService();
+		 
+         
+        System.out.println("Total No. of Books");
 		System.out.println("Total Books : " +obj.getBookCount());
 		
 		System.out.println("Listing Book with Id");
@@ -17,7 +33,7 @@ public class Client {
 		System.out.println("Total Books : " +obj.getAllBooks());
 		
 		System.out.println("Book Written by Nihal");
-		System.out.println("Total Books : " +obj.getBookByAuthor("Nihal"));
+		System.out.println("Total Books : " +obj.getBookByTitle("Nihal"));
 		
 		System.out.println("Book by Title");
 		System.out.println("Total Books : " +obj.getBookByTitle("Java"));
@@ -28,4 +44,4 @@ public class Client {
 	}
 
 }
-
+*/
